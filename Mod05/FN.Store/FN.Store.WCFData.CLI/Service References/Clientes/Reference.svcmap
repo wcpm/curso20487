@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f64892e3-6d4a-416c-b576-eabf95383bcd" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://wcpm-wcf.azurewebsites.net/service/ClienteService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ClienteService3.xsd" MetadataType="Schema" ID="30fefbdf-3a70-4662-9943-fd89942d5f16" SourceId="1" SourceUrl="http://wcpm-wcf.azurewebsites.net/service/ClienteService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ClienteService31.xsd" MetadataType="Schema" ID="25cbe7ab-0ac9-4449-b15d-1002d5693e64" SourceId="1" SourceUrl="http://wcpm-wcf.azurewebsites.net/service/ClienteService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ClienteService1.wsdl" MetadataType="Wsdl" ID="e70b2582-174d-4460-966a-5cd6e5aa13bd" SourceId="1" SourceUrl="http://wcpm-wcf.azurewebsites.net/service/ClienteService.svc?wsdl" />
+    <MetadataFile FileName="ClienteService1.disco" MetadataType="Disco" ID="5b71a9ec-2bd9-4e44-aeae-cc0edc0099de" SourceId="1" SourceUrl="http://wcpm-wcf.azurewebsites.net/service/ClienteService.svc?disco" />
+    <MetadataFile FileName="ClienteService32.xsd" MetadataType="Schema" ID="442d2d5a-17f5-426a-8f16-86d8de380dac" SourceId="1" SourceUrl="http://wcpm-wcf.azurewebsites.net/service/ClienteService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
